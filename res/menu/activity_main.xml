@@ -1,0 +1,83 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/btn_guardar" 
+        android:title="@string/Guardar"
+        android:titleCondensed="Guardar"
+        android:icon="@drawable/ic_save"
+        android:showAsAction="always" />
+    <!--
+    <item android:id="@+id/btn_dibujar" 
+        android:title="@string/Dibujar"
+        android:titleCondensed="Dinujar"
+        android:icon="@drawable/icn_lapiz"
+        android:showAsAction="always" />-->
+    <item android:id="@+id/Caras" 
+        android:title="Caras"
+        android:titleCondensed="Caras"
+        android:icon="@drawable/ic_tab_cara_selected"
+        android:showAsAction="always">
+        <menu>
+            <item android:id="@+id/item1" android:title="Feliz"/>
+            <item android:id="@+id/item2" android:title="Triste"/>
+            <item android:id="@+id/item3" android:title="Enfadado"/>
+            <item android:id="@+id/item4" android:title="Asustado"/>
+            <item android:id="@+id/item5" android:title="Confundido"/>
+            <item android:id="@+id/item6" android:title="LLorando"/>
+            <item android:id="@+id/item7" android:title="Sonriendo"/>
+            <item android:id="@+id/item8" android:title="Vergonzoso"/>
+            <item android:id="@+id/item9" android:title="Indiferente"/>
+            <item android:id="@+id/item10" android:title="Arrogante"/>
+            <item android:id="@+id/item11" android:title="Travieso"/>
+        </menu>
+    </item>
+    <item android:id="@+id/Lugares" android:title="Lugares" android:titleCondensed="Lugares" android:icon="@drawable/ic_tab_lugares_selected" android:showAsAction="always">
+        <menu>
+            <item android:id="@+id/item12" android:title="Casa"/>
+            <item android:id="@+id/item13" android:title="Colegio"/>
+            <item android:id="@+id/item14" android:title="Playa"/>
+            <item android:id="@+id/item15" android:title="Feria"/>
+            <item android:id="@+id/item16" android:title="Parque"/>
+            <item android:id="@+id/item17" android:title="Circo"/>
+            <item android:id="@+id/item18" android:title="Servicio"/>
+            <item android:id="@+id/item19" android:title="Jardin"/>
+            <item android:id="@+id/item20" android:title="Sierra"/>
+            <item android:id="@+id/item21" android:title="Cacharritos"/>
+            <item android:id="@+id/item22" android:title="Centro Comercial"/>
+            <item android:id="@+id/item23" android:title="Iglesia"/>
+        </menu>
+    </item>
+    <item android:id="@+id/Objetos" android:title="Objetos" android:titleCondensed="Objetos" android:icon="@drawable/ic_tab_objetos_selected" android:showAsAction="always">
+        <menu>
+            <item android:id="@+id/item24" android:title="Cepillo"/>
+            <item android:id="@+id/item25" android:title="Vaso"/>
+            <item android:id="@+id/item26" android:title="Pasta"/>
+            <item android:id="@+id/item27" android:title="Coche"/>
+            <item android:id="@+id/item28" android:title="Tobogan"/>
+            <item android:id="@+id/item29" android:title="Bicicleta"/>
+            <item android:id="@+id/item30" android:title="Pan"/>
+            <item android:id="@+id/item31" android:title="Tenedor"/>
+            <item android:id="@+id/item32" android:title="Cuchillo"/>
+            <item android:id="@+id/item33" android:title="Cuchara"/>
+            <item android:id="@+id/item34" android:title="Plato"/>
+            <item android:id="@+id/item35" android:title="Bañera"/>
+            <item android:id="@+id/item36" android:title="Puerta"/>
+        </menu>
+    </item>
+    <item android:id="@+id/Acciones" android:title="Acciones" android:titleCondensed="Acciones" android:icon="@drawable/ic_tab_acciones_selected" android:showAsAction="always">
+        <menu>
+            <item android:id="@+id/item37" android:title="Dormir"/>
+            <item android:id="@+id/item38" android:title="Comer"/>
+            <item android:id="@+id/item39" android:title="Lavar"/>
+            <item android:id="@+id/item40" android:title="Cepillar"/>
+            <item android:id="@+id/item41" android:title="Correr"/>
+            <item android:id="@+id/item42" android:title="Sentarse"/>
+            <item android:id="@+id/item43" android:title="Tumbarse"/>
+            <item android:id="@+id/item44" android:title="Ver"/>
+            <item android:id="@+id/item45" android:title="Beber"/>
+            <item android:id="@+id/item46" android:title="Pasear"/>
+            <item android:id="@+id/item47" android:title="Nadar"/>
+            <item android:id="@+id/item48" android:title="Subir escaleras"/>
+            <item android:id="@+id/item49" android:title="Bajar escaleras"/>
+        </menu>
+    </item>
+    
+</menu>

@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">Crea-Pictogramas</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Crea-Pictogramas</string>
+    <string name="TakePhoto">Realizar Foto</string>
+    <string name="InsertarPictograma">Insertar Pictograma</string>
+    <string name="FotoCapturada">FotoCapturada</string>
+    <string name="InputName">Introduce nombre/acción del pictograma</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancelar</string>
+    <string name="ImportPicture">Importar pictograma</string>
+    <string name="DibujarManualmente">Dibujar manualmente</string>
+    <string name="Filtro1">Filtro 1</string>
+    <string name="Filtro2">Filtro 2</string>
+    <string name="Filtro3">Filtro 3</string>
+    <string name="Filtro4 ">Filtro 4</string>
+    <string name="Emociones">Emociones</string>
+    <string name="Lugares">Lugares</string>
+    <string name="Objetos">Objetos</string>
+    <string name="Acciones">Acciones</string>
+    <string name="Dibujar">Dibujar</string>
+    <string name="Imagenes">Imagenes</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Transformar">Transformar</string>
+    <color name="blue">#1431de</color>
+    <color name="red">#ff0000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="grey">#1f1e1f</color>
+    
+ </resources>
